@@ -67,22 +67,26 @@ Ethereum has a number of metrics which offer an array of insights into how the p
 
 **How is your company performing relative to competitors in the same domain?**
 
-Ethereum is currently the second largest cryptocurrency, signifcantly outperforming all competitors.
+Ethereum is currently the second largest cryptocurrency, signifcantly outperforming it's competitors.
 
 ## Recommendations
 
 **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
 
-I believe Ethereum is currently on the correct path for success, merging to the PoS mechanism under Eth2.0. Without the upgrade I believe the network would eventually fall to competitors due to high gas fees and slower processing times.
+One of the biggest current downfalls of Ethereum is the high gas fees due to the level of congestion on the network. Validators prioritise users with higher gas fees due to the complex level of computational power required to validate a transaction. This issue is consistent under the Proof of Work (PoW) mechanism. Competitors such as Cardano already utilise a Proof of Stake consensus instead, whereby validators are chosen at random and the high computational power to execute transactions is no longer required. This significantly lowers gas fees and improves processing times. Ethereum should switch the consensus mechanism from Proof of Work to Proof of Stake.
+
+The switch to PoS was proposed in 2019, however development has continuously been pushed back and the full product is not expected to be live until 2023.
 
 **Why do you think that offering this product or service would benefit the company?**
 
-Ethereum 2.0 will reduce gas fees and speed processing times.
+By switching to PoS, Ethereum can continue to scale to support a wide range of industrial and dApps. High gas fees and slow network processing speeds will hinder growth in the long term so Ethereum needs to solve these issues, otherwise competitors such as Cardano will rise up and take the lead.
 
 **What technologies would this additional product or service utilize?**
 
-Ethereum 2.0 will utilise PoS instead of PoW.
+The Proof of Stake consensus will allow validators to stake their cryptocurrency within smart contracts on the Ethereum blockchain. By staking their crypto, users will receive a chance to validate transactions and receive their reward.
+
+Another proposal for the future of Ethereum is the process of Sharding. Sharding allows for a large database (Ethereum blockchain) to be split into a number of smaller databases. This increases the scalability of the project as large databases will continue to have longer processing times.
 
 **Why are these technologies appropriate for your solution?**
 
-PoS utilises significant computing power and is unsustainable for scaling the network.
+Proof of Stake requires far less computational power for the Ethereum network. Whilst this is not only beneficial for current users, it is also necessary for onboarding new customers. Less computational power is also a benefit for the environment and noting the current rate of climate change, all business models will need to adapt to lower their carbon emissions.
