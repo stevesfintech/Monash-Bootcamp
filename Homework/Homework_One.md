@@ -1,6 +1,6 @@
 # ETHEREUM
 
-![Ethereum](Ethereum.png)
+![Ethereum](https://github.com/stevesfintech/Monash-Bootcamp/blob/main/Homework/Images/Ethereum.png)
 
 ## Overview and Origin
 
